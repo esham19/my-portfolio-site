@@ -1,0 +1,25 @@
+*         
+.life{
+    background-color: darksalmon;
+    font-size: 20px;
+}
+#myname{
+    color: rgb(0, 255, 242);
+    font-size: 40px;
+    text-align: center;
+}
+body{
+    background-color: darkorchid;
+}
+#click{
+    color: rgb(1, 255, 242);
+    font-size: 20px;
+}
+.fields{
+    font-size: 24px;
+   
+}
+img{
+    width: 190px;
+    height: 245px;
+}
